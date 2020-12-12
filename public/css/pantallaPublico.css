@@ -1,0 +1,36 @@
+html, body {
+    background-color: #AD1519;
+    color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+.ticket-actual {
+    background-color: #101010;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.ticket-actual-numero {
+    font-size: 80px;
+}
+
+.ticket-actual-escritorio {
+    font-size: 45px;
+}
+
+.contenedores-secundarios {
+    display: flex;
+    align-items: center;
+    height: 33.35vh;
+}
+
+.contenedor-secundario-medio {
+    border-top: solid #101010 3px;
+    border-bottom: solid #101010 3px;
+}
+
+.ticket-secundario {
+    font-size: 25px;
+}
